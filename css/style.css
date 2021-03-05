@@ -1,0 +1,73 @@
+body {
+  background-color: lightslategray;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  color: black;
+}
+
+.intro {
+  margin-top: 2em;
+  width: 100%;
+}
+
+.about__me {
+  text-align: center;
+}
+
+.about__me--header {
+  margin-top: 2em;
+}
+
+.my__work--header {
+  margin-top: 3em;
+}
+
+.about__me--img {
+  align-items: center;
+  border-radius: 25px;
+}
+
+
+
+.container {
+  margin-top: 4em;
+}
+
+.portfolio__title {
+  margin-bottom: 1.5em;
+}
+
+footer {
+  background-color: black;
+  margin-bottom: -22px;
+  margin-top: 2em;
+}
+
+.footer__link {
+  display: inline;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+.footer__link--container {
+  padding-top: 10px;
+}
+
+.social__media--list li {
+  display: inline;
+  font-size: 100px;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+footer a {
+  color: white;
+}
+
+p {
+  margin-left: 20em;
+  margin-right: 20em;
+}
